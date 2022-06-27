@@ -4,6 +4,8 @@
 
 Started coding at 14 but helped more than 5 million students to learn English and Full-Stack development. As well as, Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT. I've more than 6 years of practical working experience as a Software Engineer and developed 20+ websites and 10+ Android apps.
 
+Exampe of work: https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif?raw=true
+
 Skills: Android • Java full-stack • Kotlin • JavaScript • Python • C++
 
 - 🔭 I’m currently working on Android Apps and Web Projects 
