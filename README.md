@@ -2,10 +2,7 @@
 #### Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT
 ![Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT](https://github.com/arifulislamblue/Data-Structure-21-Days-Challenge/blob/fa0d98d36c07169a2a07572df8edaee1f65fcef4/217595298_1394186440955525_9211038405774997333_n.jpg?raw=true)
 
-Started coding at 14 but helped more than 5 million students to learn English and Full-Stack development. As well as, Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT. I've more than 6 years of practical working experience as a Software Engineer and developed 20+ websites and 10+ Android apps.
-
-Exampe of work: https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif?raw=true
-
+Started coding at 14 but helped more than 5 million students to learn English and Full-Stack development. As well as, Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT. I've more than 6 years of practical working experience as a Software Engineer.
 Skills: Android • Java full-stack • Kotlin • JavaScript • Python • C++
 
 - 🔭 I’m currently working on Android Apps and Web Projects 
