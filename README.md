@@ -6,7 +6,7 @@ Started coding at 14 years old but helped more than 5 million students to learn 
 Skills: JavaScript • Java • Kotlin • Angular • Node.js • Sprint Boot
 
 - 🔭 I’m currently working on Angular and Node.js projects. 
-- 🌱 I’m currently learning Blockchain/web3 Development. (Solidity) 
+- 🌱 I’m currently learning Blockchain/web3 Development. 
 - 💬 Ask me about arifulslamblue@gmail.com 
 - 📫 How to reach me: arifulslamblue@gmail.com 
 
