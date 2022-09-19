@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Ariful Islam and my next Goal Software Engineer at Google
-#### Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT
-![Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT](https://github.com/arifulislamblue/Data-Structure-21-Days-Challenge/blob/fa0d98d36c07169a2a07572df8edaee1f65fcef4/217595298_1394186440955525_9211038405774997333_n.jpg?raw=true)
+### Hi there 👋, I'm Ariful Islam.
+#### Founder & CEO of Starnote English School and Senior Software Engineer at Softlab IT.
+![Founder & CEO of Starnote English School and Senior Software Engineer at Softlab IT](https://github.com/arifulislamblue/Data-Structure-21-Days-Challenge/blob/fa0d98d36c07169a2a07572df8edaee1f65fcef4/217595298_1394186440955525_9211038405774997333_n.jpg?raw=true)
 
-Started coding at 14 but helped more than 5 million students to learn English and Full-Stack development. As well as, Founder & CEO of Starnote English School and Senior Software Engineer & Partner at Softlab IT. I've more than 6 years of practical working experience as a Software Engineer.
-Skills: Android • Java full-stack • Kotlin • JavaScript • Python • C++
+Started coding at 14 years old but helped more than 5 million students to learn English and Full-Stack development. As well as, Founder & CEO of Starnote English School and Senior Software Engineer at Softlab IT. I've more than 6 years of practical working experience as a Software Engineer.
+Skills: JavaScript • Java • Kotlin • Angular • Node.js • Sprint Boot
 
-- 🔭 I’m currently working on Android Apps and Web Projects 
-- 🌱 I’m currently learning Data Structure and Algorithms and Java 
+- 🔭 I’m currently working on Angular and Node.js projects. 
+- 🌱 I’m currently learning Blockchain/web3 Development. (Solidity) 
 - 💬 Ask me about arifulslamblue@gmail.com 
 - 📫 How to reach me: arifulslamblue@gmail.com 
 
